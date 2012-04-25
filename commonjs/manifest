@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+description: Google Cloud Print
+author: Dawson Toth
+license: Appcelerator Commercial License
+copyright: Copyright (c) 2011-2012 by Appcelerator,  Inc.
+
+
+# these should not be edited
+name: ti.gcp
+moduleid: ti.gcp
+guid: 1056b5d2-2bb5-4339-b930-297637aeec4e
+platform: commonjs
+minsdk: 2.0.0
